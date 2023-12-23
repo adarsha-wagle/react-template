@@ -11,5 +11,5 @@ Currently, two official plugins are available:
 `npx degit adarsha-wagle/react-template project_name`
 
 # Quick Start
-npm i
-npm run dev
+- npm i
+- npm run dev
