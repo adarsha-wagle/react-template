@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Clone the repo : 
-npx degit adarsha-wagle/react-template project_name
+`npx degit adarsha-wagle/react-template project_name`
 
 # Quick Start
 npm i
