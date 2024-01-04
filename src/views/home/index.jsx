@@ -1,4 +1,3 @@
-import React from "react";
 import { Box, Container } from "@mui/material";
 
 import FirstSectionHome from "./component/first_section_home";
