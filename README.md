@@ -48,4 +48,4 @@ A basic React template to kickstart your projects, featuring popular libraries a
 
 ### Contributing
 
-Feel free to contribute to this project or create pull requests for improvements.
+Feel free to contribute to this template or create pull requests for improvements.
