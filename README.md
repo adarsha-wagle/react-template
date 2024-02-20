@@ -1,4 +1,4 @@
-# React Template with Axios, Material-UI, React Router, Redux Toolkit, and Vite
+# React Template with Material-UI, React Router Dom, Redux Toolkit, RTK Query and Vite
 
 A basic React template to kickstart your projects, featuring popular libraries and a clean folder structure.
 
@@ -24,7 +24,6 @@ A basic React template to kickstart your projects, featuring popular libraries a
 ### Features
 
     - Vite: Fast and efficient development server.
-    - Axios: HTTP client for making API requests.
     - Material-UI: React components for a modern UI.
     - React Router Dom: Declarative navigation for React apps.
     - Redux Toolkit: State management for React applications.
